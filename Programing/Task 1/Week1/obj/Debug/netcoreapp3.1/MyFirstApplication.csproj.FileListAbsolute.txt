@@ -1,0 +1,15 @@
+C:\Users\Haider Ale\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.Week1.resources
+C:\Users\Haider Ale\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\MyFirstApplication.csproj.GenerateResource.cache
+C:\Users\Haider Ale\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\MyFirstApplication.AssemblyInfoInputs.cache
+C:\Users\Haider Ale\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\MyFirstApplication.AssemblyInfo.cs
+C:\Users\Haider Ale\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\Haider Ale\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\MyFirstApplication.exe
+C:\Users\Haider Ale\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\MyFirstApplication.deps.json
+C:\Users\Haider Ale\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\MyFirstApplication.runtimeconfig.json
+C:\Users\Haider Ale\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\MyFirstApplication.runtimeconfig.dev.json
+C:\Users\Haider Ale\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\MyFirstApplication.dll
+C:\Users\Haider Ale\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\MyFirstApplication.pdb
+C:\Users\Haider Ale\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\MyFirstApplication.dll
+C:\Users\Haider Ale\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\MyFirstApplication.pdb
+C:\Users\Haider Ale\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\MyFirstApplication.genruntimeconfig.cache
+C:\Users\Haider Ale\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\MyFirstApplication.csprojAssemblyReference.cache
